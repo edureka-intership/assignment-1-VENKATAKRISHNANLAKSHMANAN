@@ -1,0 +1,305 @@
+*
+{
+margin: 10px;
+box-sizing: border-box;
+}
+.header-class
+{
+    border: 1px;
+    background-color: #CE0505;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+    .button-class-c
+    {
+         border: 1px solid white;
+         background-color: transparent;
+         color: white;
+         margin-right: 50px;
+     
+    }
+
+    .button-class-l
+    {
+         border: 0;
+         background-color: transparent;
+         color: white;
+         
+    }
+.logo
+{
+    border : 0;
+    width: 30px;
+       height:30px;
+       margin-left: 50px;
+       margin-top: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: white;
+border-radius: 100px;
+padding: 2px 4px; 
+}
+.p-logo-class
+{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+.main-class-div{
+    
+    margin-left: 3vw;
+    display: flex;
+    margin-left: 3vw;
+          
+}
+
+
+.location
+{
+    border :0;
+    margin-left: 6vw;
+
+}
+
+.location-class{
+
+    font-size: 30px;
+    color: #192f60;
+    font-weight:bold;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.left-cont
+   {
+
+    
+    /* margin-left: 3vw; */
+    display: flex;
+   flex-direction: column; 
+    box-shadow: 10px 20px 30px 25px whitesmoke;
+    background-color: white;
+        
+   }
+   
+    .filters
+    {
+        margin-left: 3vw;
+        display: flex;
+   
+    }
+    .filters-class
+    {
+        font-size: 18px;
+        color: #192f60;
+        font-weight:bold;
+       font-family: Arial, Helvetica, sans-serif;
+
+    }
+    .Select-Location
+    {
+        border :0;
+        margin-left: 3vw;
+    }
+    .select-location-class
+    {
+        font-size: 14px;
+        color: #192f60;
+        font-weight:bold;
+       font-family: Arial, Helvetica, sans-serif;
+    }
+    .Cuisine
+    {
+        border :0;
+        margin-left: 3vw;
+        display: flex;
+        flex-direction: column;
+               
+    }
+    .cuisine-p-class
+    {
+        font-size: 14px;
+        color: #192f60;
+        font-weight:bold;
+       font-family: Arial, Helvetica, sans-serif;
+
+    }
+    .ni,.si,.chi,.ff,.sf
+    {
+        font-size: 14px;
+        color: #192f60;
+        font-weight:bold;
+       font-family: Arial, Helvetica, sans-serif;
+          }
+
+    .Cost
+       {
+        border :0;
+        margin-left: 3vw;
+        display: flex;
+        flex-direction: column;
+
+    }
+
+
+    .cost-p-class
+    {
+        font-size: 15px;
+        color: #192f60;
+        font-weight:bold;
+       font-family: Arial, Helvetica, sans-ser
+
+    }
+
+    .oner,.twor,.threer,.fourr,.fiver
+    {
+        font-size: 14px;
+        color: #192f60;
+        font-weight:bold;
+       font-family: Arial, Helvetica, sans-serif;
+         }
+    
+
+    .sort
+        {
+     border :0;
+     margin-left: 3vw;
+     display: flex;
+     flex-direction: column;
+
+ }
+
+
+    .sort-class
+    {
+        font-size: 18px;
+        color: #192f60;
+        font-weight:bold;
+       font-family: Arial, Helvetica, sans-ser
+
+    }
+
+
+    .s1,.s2
+    {
+        font-size: 14px;
+        color: #192f60;
+        font-weight:bold;
+       font-family: Arial, Helvetica, sans-serif;
+    
+    }
+
+.right-cont
+{
+  
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    
+    
+}
+
+.right-cont-1,.right-cont-2
+{
+
+ width: 60vw;
+ height: 45vh;
+    box-shadow: 30px 20px 20px 20px whitesmoke;
+    background-color: white;
+    /* justify-content: space-around; */
+    
+  
+   
+}
+
+    .img-class
+    {
+        
+     border-radius: 80px;
+ display: flex;
+
+ 
+ 
+
+}
+
+.t1
+{
+    font-size: 30px;
+    color: #192f60;
+    font-weight:bold;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.t2
+{
+    font-size: 16px;
+    color: #192f60;
+    font-weight:bold;
+   font-family: Arial, Helvetica, sans-serif;
+}
+  .t3
+  {
+      font-size: 16px;
+    color: #192f60;
+    font-weight:bold;
+   font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+  .t4,.t5
+  {
+      font-size: 16px;
+    color: #636F88;
+    font-weight:bold;
+   font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+  .t6,.t7
+  {
+
+    font-size: 16px;
+    color: #636F88;
+    font-weight:bold;
+   font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+  .t-class{
+display: flex;
+padding : 25px;
+
+
+  }
+.pagination-section
+{
+display: flex;
+flex-direction: row;
+justify-content: center;
+
+
+}
+
+.pagination{
+list-style: none;
+display: flex;
+
+
+}
+
+.pagination-li
+
+{
+
+    border: 1px solid #8C96AB;;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #8C96AB;
+}
